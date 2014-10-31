@@ -1,14 +1,6 @@
-# fizzbuzz
+# Fizzbuzz
 
-A Clojure library designed to ... well, that part is up to you.
+Revisiting the Fizzbuzz kata once again, but this time using the functional programming language Clojure, with Leiningen to set up the project and run the tests.
 
-## Usage
 
-FIXME
 
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
